@@ -1,7 +1,7 @@
 <h1 align="center">👋, I'm NoBypass</h1>
 <h3 align="center">Learning development in Switzerland</h3>
 
-- 🔭 I’m currently working on (looking for collab) [FDS-App](https://github.com/NoBypass/fds)
+- 🔭 I’m currently working on [FDS-App](https://github.com/NoBypass/fds) (looking to collab)
 
 - 🌱 I’m currently learning **Svelte, Rust, Blender, Unreal, Tauri and RoR**
 
