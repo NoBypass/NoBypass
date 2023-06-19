@@ -6,7 +6,9 @@ I’m currently working on [FDS-App](https://github.com/NoBypass/fds) (looking t
 🏫 **Currently learning:**
 - Unreal Engine/C++
 - Go
-- Rust\
+- Rust
+
+
 I don't really know anything about these so don't ask me about them 🙃
 
 🎓 **What I know:**
