@@ -22,6 +22,8 @@ I don't really know anything about these so don't ask me about them 🙃
 - Next.js v13 / React
 - Python
 - Docker
+- CSS & SCSS
+- Tailwind CSS
 - Android (kinda)
 
 🫠 **I've given up on learning these for now:**
