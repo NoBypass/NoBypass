@@ -4,10 +4,14 @@ Learning development in Switzerland
 I’m currently working on [FDS-App](https://github.com/NoBypass/fds) (looking to collab)
 
 🏫 **Currently learning:**
-- Unreal Engine/C++
 - Go
-- Rust
+- Svelte
 
+**⌚ I want to learn:**
+- Rust
+- Blender
+- Three.js
+- Unreal Engine/C++
 
 I don't really know anything about these so don't ask me about them 🙃
 
