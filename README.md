@@ -36,6 +36,8 @@ I’m currently working on [FDS-App](https://github.com/NoBypass/fds) (looking t
 
 ## Somewhat interesting
 
-![NoBypass's GitHub stats](https://github-readme-stats.vercel.app/api?username=nobypass&hide=prs&theme=dark)
+![NoBypass's GitHub stats](https://github-readme-stats.vercel.app/api?username=nobypass&hide=prs&theme=dark&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nobypass&layout=compact&theme=dark)
 
 Contact me here: **@nobypass on Discord**
