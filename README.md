@@ -34,4 +34,8 @@ I’m currently working on [FDS-App](https://github.com/NoBypass/fds) (looking t
 - Kotlin/Ktor
 - Redis
 
+## Somewhat interesting
+
+![NoBypass's GitHub stats](https://github-readme-stats.vercel.app/api?username=nobypass&hide=prs)
+
 Contact me here: **@nobypass on Discord**
