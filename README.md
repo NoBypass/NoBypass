@@ -1,19 +1,20 @@
-I'm NoBypass\
-Learning development in Switzerland
+# I'm NoBypass
+**and am currently learning development in Switzerland**
 
-I’m currently working on [FDS-App](https://github.com/NoBypass/fds) (looking to collab)
+My main Project is [FDS-App](https://github.com/NoBypass/fds) (Pinned)
 
-🏫 **Currently learning:**
+## 🏫 Currently learning
 - Go
 - Svelte
 
-**⌚ I want to learn:**
+## ⌚ I want to learn
 - Rust
 - Blender
 - Three.js
 - Unreal Engine/C++
+- Redis
 
-🎓 **What I know:**
+## 🎓 What I know and have used
 - JavaScript/TypeScript
 - Java
 - Gradle (kinda)
@@ -28,13 +29,12 @@ I’m currently working on [FDS-App](https://github.com/NoBypass/fds) (looking t
 - Tailwind CSS
 - Android (kinda)
 
-🫠 **I've given up on learning these for now:**
+## 🫠 I've given up on learning these for now
 - Ruby
 - RoR
 - Kotlin/Ktor
-- Redis
 
-## Somewhat interesting
+## 📊 Somewhat interesting
 
 ![NoBypass's GitHub stats](https://github-readme-stats.vercel.app/api?username=nobypass&hide=prs&theme=dark&show_icons=true)
 
