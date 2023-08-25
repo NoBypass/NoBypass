@@ -36,11 +36,11 @@ My main Project is [FDS-App](https://github.com/NoBypass/fds) (Pinned)
 
 ## 📊 Somewhat interesting
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nobypass&theme=dark&show_icons=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nobypass&theme=transparent&show_icons=true)
 
-![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nobypass&layout=compact&theme=dark)
+![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nobypass&layout=compact&theme=transparent)
 
-![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nobypass&layout=compact&theme=dark)
+![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nobypass&layout=compact&theme=transparent)
 
 
 Contact me here: **@nobypass on Discord**
