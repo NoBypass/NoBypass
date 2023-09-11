@@ -30,8 +30,7 @@ My main Project is [FDS-App](https://github.com/NoBypass/fds) (Pinned)
 - Android (kinda)
 
 ## 🫠 I've given up on learning these for now
-- Ruby
-- RoR
+- Ruby/RoR
 - Kotlin/Ktor
 
 ## 📊 Somewhat interesting
