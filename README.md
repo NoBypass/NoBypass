@@ -13,6 +13,7 @@ My main Project is [FDS-App](https://github.com/NoBypass/fds) (Pinned)
 - Three.js
 - Unreal Engine/C++
 - Redis
+- WASM
 
 ## 🎓 What I know and have used
 - JavaScript/TypeScript
