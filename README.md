@@ -14,6 +14,8 @@ My main Project is [FDS-App](https://github.com/NoBypass/fds) (Pinned)
 - Unreal Engine/C++
 - Redis
 - WASM
+- Qwick
+- Astro
 
 ## 🎓 What I know and have used
 - JavaScript/TypeScript
