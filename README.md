@@ -6,6 +6,7 @@ My main Project is [FDS-App](https://github.com/NoBypass/fds) (Pinned)
 ## 🏫 Currently learning
 - Go
 - Svelte
+- Kotlin
 
 ## ⌚ I want to learn
 - Rust
@@ -34,7 +35,7 @@ My main Project is [FDS-App](https://github.com/NoBypass/fds) (Pinned)
 
 ## 🫠 I've given up on learning these for now
 - Ruby/RoR
-- Kotlin/Ktor
+- Ktor
 
 ## 📊 Somewhat interesting
 
