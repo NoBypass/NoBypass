@@ -37,17 +37,22 @@ My main Project is [FDS-App](https://github.com/NoBypass/fds) (Pinned)
 - Ruby/RoR
 - Ktor
 
-## 📊 Somewhat interesting
+## 📊 Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nobypass&theme=dark&show_icons=true)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=NoBypass&theme=dark)](https://git.io/streak-stats)
+### GitHub
+<div class="display: flex">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nobypass&theme=dark&show_icons=true" />
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=NoBypass&theme=dark" />
+</div>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nobypass&layout=compact&theme=dark)
 
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nobypass&layout=compact&theme=dark)
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/nobypass?ext=heatmap)](https://leetcode.com/nobypass)
-
+### External Info
+<div class="display: flex">
+  <img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=nobypass&layout=compact&theme=dark" />
+  <a href="https://leetcode.com/nobypass">    
+    <img alt="LeetCode Stats" src="https://leetcard.jacoblin.cool/nobypass?ext=heatmap" />
+  </a>
+</div>
 
 Contact me here: **@nobypass on Discord**
