@@ -41,7 +41,7 @@ My main Project is [FDS-App](https://github.com/NoBypass/fds) (Pinned)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nobypass&theme=dark&show_icons=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NoBypass)
+[![GitHub Streak](https://streak-stats.demolab.com?user=NoBypass&theme=dark)](https://git.io/streak-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nobypass&layout=compact&theme=dark)
 
