@@ -45,7 +45,7 @@ My main Project is [FDS-App](https://github.com/NoBypass/fds) (Pinned)
 
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nobypass&layout=compact&theme=transparent)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/user5953FK?ext=heatmap)](https://leetcode.com/user5953FK)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/nobypass?ext=heatmap)](https://leetcode.com/nobypass)
 
 
 Contact me here: **@nobypass on Discord**
