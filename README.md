@@ -39,11 +39,13 @@ My main Project is [FDS-App](https://github.com/NoBypass/fds) (Pinned)
 
 ## 📊 Somewhat interesting
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nobypass&theme=transparent&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nobypass&theme=dark&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nobypass&layout=compact&theme=transparent)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NoBypass)
 
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nobypass&layout=compact&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nobypass&layout=compact&theme=dark)
+
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nobypass&layout=compact&theme=dark)
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/nobypass?ext=heatmap)](https://leetcode.com/nobypass)
 
