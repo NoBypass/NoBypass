@@ -21,8 +21,7 @@ My main Project is [FDS-App](https://github.com/NoBypass/fds) (Pinned)
 ## 🎓 What I know and have used
 - JavaScript/TypeScript
 - Java
-- Gradle (kinda)
-- SpringBoot
+p- SpringBoot
 - GraphQL
 - Neo4j
 - Discord.js
