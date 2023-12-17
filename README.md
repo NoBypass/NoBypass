@@ -7,21 +7,22 @@ My main Project is [FDS-App](https://github.com/NoBypass/fds) (Pinned)
 - Go
 - Svelte
 - Kotlin
+- Rust
+- Astro
+- SurrealDB
 
 ## ⌚ I want to learn
-- Rust
 - Blender
 - Three.js
 - Unreal Engine/C++
 - Redis
 - WASM
 - Qwick
-- Astro
 
 ## 🎓 What I know and have used
 - JavaScript/TypeScript
 - Java
-p- SpringBoot
+- SpringBoot
 - GraphQL
 - Neo4j
 - Discord.js
