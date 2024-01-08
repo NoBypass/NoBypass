@@ -4,8 +4,6 @@
 My main Project is [FDS-App](https://github.com/NoBypass/fds) (Pinned)
 
 ## 🏫 Currently learning
-- Go
-- Svelte
 - Kotlin
 - Rust
 - Astro
@@ -20,6 +18,8 @@ My main Project is [FDS-App](https://github.com/NoBypass/fds) (Pinned)
 - Qwick
 
 ## 🎓 What I know and have used
+- Go
+- Svelte
 - JavaScript/TypeScript
 - Java
 - SpringBoot
@@ -31,11 +31,12 @@ My main Project is [FDS-App](https://github.com/NoBypass/fds) (Pinned)
 - Docker
 - CSS & SCSS
 - Tailwind CSS
-- Android (kinda)
+
 
 ## 🫠 I've given up on learning these for now
 - Ruby/RoR
 - Ktor
+- Android (kinda)
 
 ## 📊 Stats
 
