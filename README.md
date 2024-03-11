@@ -1,5 +1,5 @@
 # I'm NoBypass
-**and am currently learning development in Switzerland**
+**and am currently learning development in Switzerland 🇨🇭**
 
 My main Project is [FDS](https://github.com/NoBypass/fds) (Pinned)
 The plan is to make a modern stats checker for Hypixel and eventually other Minecraft servers.
