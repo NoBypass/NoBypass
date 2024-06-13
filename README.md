@@ -18,7 +18,7 @@ as possible, so it is really overengineered.
 ## 🏫 My favourite technologies
 - Go with Echo for Web APIs
 - SurrealDB
-- Astro with Svelte/Tailwind
+- Gohtml/Tailwind & HTMX
 
 ## ⌚ I want to learn/use in the future
 - Kotlin
@@ -26,9 +26,10 @@ as possible, so it is really overengineered.
   - Minecraft Modding
 - Shaders (maybe CUDA)
 - Rust
-  - WASM
-  - Tauri
-- HTMX
+- Zig
+- Python
+  - Data analysis
+  - AI
 - K8s
 
 ## 📊 Stats
