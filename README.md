@@ -18,7 +18,7 @@ as possible, so it is really overengineered.
 ## 🏫 My favourite technologies
 - Go with Echo for Web APIs
 - SurrealDB
-- Gohtml/Tailwind & HTMX
+- Svelte & Tailwind
 
 ## ⌚ I want to learn/use in the future
 - Kotlin
@@ -31,6 +31,8 @@ as possible, so it is really overengineered.
   - Data analysis
   - AI
 - K8s
+- Swift - IOS development
+- Astro
 
 ## 📊 Stats
 
