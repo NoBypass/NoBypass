@@ -20,5 +20,3 @@ jobs:
           plugin_languages_limit: 4
           plugin_languages_analysis_timeout: 15
           token: ${{ secrets.METRICS_TOKEN }}
-        test:
-          skip: true
